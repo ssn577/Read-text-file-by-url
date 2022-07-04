@@ -1,0 +1,14 @@
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\bin\Debug\Read text file by url.exe.config
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\bin\Debug\Read text file by url.exe
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\bin\Debug\Read text file by url.pdb
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.csproj.AssemblyReference.cache
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read_text_file_by_url.frm_read_text_by_url.resources
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read_text_file_by_url.Properties.Resources.resources
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.csproj.GenerateResource.cache
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.csproj.CoreCompileInputs.cache
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.exe
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.pdb
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\bin\Debug\Read text file by url.exe.manifest
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\bin\Debug\Read text file by url.application
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.exe.manifest
+C:\Users\shali\Desktop\Read text file by url\Read text file by url\Read text file by url\obj\Debug\Read text file by url.application
